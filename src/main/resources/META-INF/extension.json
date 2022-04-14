@@ -1,0 +1,5 @@
+{
+  "entrypoint": "gg.astromc.battlebox.BattleboxExtension",
+  "name": "Battlebox",
+  "version": "1.0.0"
+}
